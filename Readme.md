@@ -96,7 +96,7 @@ I'm **Aditya Sinha**, a Computer Science undergraduate at C.V. Raman Global Univ
 - 🏅 **Cranes Varsity** – 1st Prize (Experiential Project-Based Learning)
 - 🌟 **Smart India Hackathon 2024** – Selected for prototype stage
 - 🤖 **IIT Bhubaneswar Pravaah ML Hackathon & NHAI Road Safety Hackathon** – Participation Certificate
-- 💻 **Flipkart Grid 6.0**, **Amazon HackOn**, **Tata Challenges**, **GeeksforGeeks Algo Arena** – Participation Certificates
+- 💻 **Flipkart Grid 6.0**, **Tata Challenges**, – Participation Certificates
 
 ---
 
